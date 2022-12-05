@@ -1,1 +1,1 @@
-“Shell,Redirection”
+“shell redirections”
